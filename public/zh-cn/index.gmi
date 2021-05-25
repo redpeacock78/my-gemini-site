@@ -10,7 +10,7 @@
 这个使用gemini协议的页面是我的简单自我介绍，"redpeacock78"。
 
 ## LANGUAGE
-=> index.gmi ENGLISH
+=> ../index.gmi ENGLISH
 => ../ja/index.gmi 日本語
 
 ## INTRODUCTION
