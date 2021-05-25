@@ -10,7 +10,7 @@
 このgeminiプロトコルを使ったページは、私 "redpeacock78"の簡単な自己紹介です。
 
 ## LANGUAGE
-=> index.gmi ENGLISH
+=> ../index.gmi ENGLISH
 => ../zh-cn/index.gmi 中文
 
 ## INTRODUCTION
