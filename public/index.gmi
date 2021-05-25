@@ -9,11 +9,16 @@
 # WELLCOME!
 This gemini protocol-based page is a brief little self-introduction about myself, "redpeacock78". 
 
+## LANGUAGE
+=> ja/index.gmi 日本語
+=> zh-cn/index.gmi 中文
+
 ## INTRODUCTION
 A person who does shell art, guitar and mahjong. Lives in Kyoto, Japan.  
 My father's programming experience is in BashScript and my mother's in Javascript.
 
 ## SOCIAL
+A list of various Social Media accounts that might tell you a little more about me.
 => https://github.com/redpeacock78 Github
 => https://www.npmjs.com/~redpeacock78 npm
 => https://twitter.com/kazuki_199778 Twitter
@@ -24,17 +29,32 @@ My father's programming experience is in BashScript and my mother's in Javascrip
 => https://www.linkedin.com/in/redpeacock78 Linkedin
 
 ## BLOG
+This is a blog where I sometimes post things that I've been thinking about.
 => https://redpeacock78.github.io/ My Blog
 
 ## PORTFOLIO
+Various portfolio pages.
 => https://k-090708.web.app/ My Portfolio
 => https://portfolio.forkwell.com/@redpeacock78 My Forkwell's Portfolio
 => https://findy-code.io/share_profiles/MtDP20ib6UJ7S My Findy's Portfolio
 => https://lapras.com/public/GX8N06A My Lapras's Portfolio
 
 ## QUALIFICATIONS
-=> http://www.jabar.jp/ 2021/04,Archaeological Researcher Level 2
-=> https://www.mext.go.jp/ 2021/03,Curator Certification
-=> https://www.kyoto-art.ac.jp/ 2021/03,BA, Fine Arts
-=> https://www.eiken.or.jp/ 2014/02,EIKEN test Level 3
-=> https://www.kanken.or.jp/ 2012/09,The Japan Kanji Aptitude Test Pre-Level 2
+The various certifications I've earned.
+=> http://www.jabar.jp/ 2021/04, Archaeological Researcher Level 2
+=> https://www.mext.go.jp/ 2021/03, Curator Certification
+=> https://www.kyoto-art.ac.jp/ 2021/03, BA, Fine Arts
+=> https://www.eiken.or.jp/ 2014/02, EIKEN test Level 3
+=> https://www.kanken.or.jp/ 2012/09, The Japan Kanji Aptitude Test Pre-Level 2
+
+## THIS PAGE SOURCE CODE
+=> https://github.com/redpeacock78/my-gemini-site redpeacock78/my-gemini-site[MIT License]
+
+## DONATE/SUPPORT
+Please feel free to use it as a test destination for the money transfer function.
+```
+BTC: 3DANdi2ooepsWpTFMbM9ZRgLtjKJB1sjkm
+BAT: 0xE2876c1264f9d202bad8f8Bb2f1D632b54Df9637
+ETH: 0xE2876c1264f9d202bad8f8Bb2f1D632b54Df9637
+MONA: MCm4boJW2WwVNzeDUDShLUEdmm5nACcWBi
+```
