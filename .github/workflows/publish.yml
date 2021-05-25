@@ -1,0 +1,16 @@
+name: Gemini Publish
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Gemini Publish
+        run: ./publish.sh
+        env:
+          token: ${{ secrets.GEMINI_TOKEN }}
