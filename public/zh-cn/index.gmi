@@ -15,7 +15,7 @@
 
 ## INTRODUCTION
 一个做贝壳艺术(Bash Oneliner)、吉他和麻将的人。 居住在日本京都。
-我父亲的编程经验是BashScript，而我母亲的编程经验是Javascript。
+我父亲的编程经验是BashScript，我母亲的编程经验是Javascript。
 
 ## SOCIAL
 可能会让你对我有一点了解的社交媒体账户列表
