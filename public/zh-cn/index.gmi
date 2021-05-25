@@ -11,7 +11,7 @@
 
 ## LANGUAGE
 => index.gmi ENGLISH
-=> ja/index.gmi 日本語
+=> ../ja/index.gmi 日本語
 
 ## INTRODUCTION
 一个做贝壳艺术(Bash Oneliner)、吉他和麻将的人。 居住在日本京都。
