@@ -11,7 +11,7 @@
 
 ## LANGUAGE
 => index.gmi ENGLISH
-=> zh-cn/index.gmi 中文
+=> ../zh-cn/index.gmi 中文
 
 ## INTRODUCTION
 シェル芸、ギター、麻雀をやっている人。京都府在住。
