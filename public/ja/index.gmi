@@ -15,7 +15,7 @@
 
 ## INTRODUCTION
 シェル芸、ギター、麻雀をやっている人。京都府在住。
-父のプログラミング経験はBashScript、母のプログラミング経験はJavascript。
+プログラミング経験の父はBashScript、母はJavascript。
 
 ## SOCIAL
 私のことが少し分かるかもしれないソーシャルメディアのアカウントのリスト
