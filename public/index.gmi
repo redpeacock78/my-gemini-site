@@ -47,9 +47,6 @@ The various certifications I've earned.
 => https://www.eiken.or.jp/ 2014/02, EIKEN test Level 3
 => https://www.kanken.or.jp/ 2012/09, The Japan Kanji Aptitude Test Pre-Level 2
 
-## THIS PAGE SOURCE CODE
-=> https://github.com/redpeacock78/my-gemini-site redpeacock78/my-gemini-site[MIT License]
-
 ## DONATE/SUPPORT
 Please feel free to use it as a test destination for the money transfer function.
 ```
@@ -58,3 +55,14 @@ BAT: 0xE2876c1264f9d202bad8f8Bb2f1D632b54Df9637
 ETH: 0xE2876c1264f9d202bad8f8Bb2f1D632b54Df9637
 MONA: MCm4boJW2WwVNzeDUDShLUEdmm5nACcWBi
 ```
+
+## CONTACT
+```
+mail: redpeacock78@info.tamakasu.ga
+```
+
+## THIS PAGE SOURCE CODE
+=> https://github.com/redpeacock78/my-gemini-site redpeacock78/my-gemini-site
+
+Copyright (c) 2021 redpeacock78
+This software is released under the MIT License, see LICENSE.
