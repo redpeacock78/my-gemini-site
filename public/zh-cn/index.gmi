@@ -21,7 +21,11 @@
 ## SOCIAL
 可能会让你对我有一点了解的社交媒体账户列表
 => https://github.com/redpeacock78 Github
+=> https://gitlab.com/redpeacock78 Gitlab
+=> https://bitbucket.org/redpeacock78 Bitbucket
+=> https://gitee.com/redpeacock78 Gitee
 => https://www.npmjs.com/~redpeacock78 npm
+=> https://keybase.io/redpeacock78 Keybase
 => https://twitter.com/kazuki_199778 Twitter
 => https://mstdn.jp/@redpeacock78 Mastodon
 => https://weibo.com/u/5511883870 Weibo
@@ -52,18 +56,22 @@
 
 ## DONATE/SUPPORT
 请随时将其作为汇款功能的测试目的地。
+* 支持网站
 => https://ko-fi.com/redpeacock78 KO-FI
 => https://ofuse.me/redpeacock78 OFUSE
 => https://fantia.jp/fanclubs/218155/plans Fantia
 => https://www.paypal.me/redpeacock78 PayPal
 => https://liberapay.com/redpeacock78/donate Liberapay
 => https://www.buymeacoffee.com/redpeacock78 Buy Me A Coffee
+* 加密货币
 ```
 BTC: 3DANdi2ooepsWpTFMbM9ZRgLtjKJB1sjkm
 BAT: 0xE2876c1264f9d202bad8f8Bb2f1D632b54Df9637
 ETH: 0xE2876c1264f9d202bad8f8Bb2f1D632b54Df9637
 MONA: MCm4boJW2WwVNzeDUDShLUEdmm5nACcWBi
 ```
+* 愿望清单
+=> https://www.amazon.co.jp/hz/wishlist/ls/16RS9TND6G4FU?ref_=wl_share 亚马逊
 
 ## CONTACT
 ```
